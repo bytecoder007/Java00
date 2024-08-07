@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="evenfibo/evFibo/src"/>
+	<classpathentry kind="src" path="exercs/src"/>
+	<classpathentry kind="src" path="exercs2/autoPark/src"/>
+	<classpathentry kind="src" path="multiples3_5/mult/src"/>
+	<classpathentry kind="src" path="new2/RandomWord/src"/>
+	<classpathentry kind="src" path="prac56/pra56/src"/>
+	<classpathentry kind="src" path="pract23/prac23/src"/>
+	<classpathentry kind="src" path="primeNum/prime/src"/>
+	<classpathentry kind="src" path="Project1/untitled/src/main/java"/>
+	<classpathentry kind="output" path="evenfibo/evFibo/out/production/evFibo"/>
+</classpath>
