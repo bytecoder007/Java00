@@ -2,8 +2,9 @@ public class car {
     private String brand;
     private String model;
     private int year;
-
-    //Getter & Setter methods
+    //Getter:Bir özelliğin değerini döndürür.
+    //Setter: Bir özelliğe değer atar.
+    
     public String getBrand(){
         return brand;
     }

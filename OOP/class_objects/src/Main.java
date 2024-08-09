@@ -1,6 +1,10 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
+//Java' Sınıf Özellikleri: Bir sınıfın durumunu belirleyen verileri tutar. Bu alanlar(fields) veya (instance variables)
+//olarak adlanadırılır.Sınıf özellikleri, belirli bir nesnenin (object) veya tum sınıfın (class) verilerini 
+//depolamak için kullanılır.
+//JAVA'da Sınıf özellikleri 2 türe ayrılır.
+
     public static void main(String[] args) {
         car c1 = new car();
         c1.color = "Red";
@@ -9,6 +13,5 @@ public class Main {
         c1.infoCar();
         c1.startEngine();
         c1.stopEngine();
-        Game myGame = new Game("WT","3000",1000);
-        }
     }
+}
